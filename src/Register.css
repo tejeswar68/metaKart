@@ -1,0 +1,65 @@
+.register_form
+{
+    background-color: white;
+    /* position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%); */
+    /* width: 900px;
+    height: 700px; */
+    border-radius: 20px;
+    margin-bottom: 80px;
+    padding: 50px;
+    box-shadow: 1px 5px 20px rgb(235, 235, 235) ;
+}
+/* .registration_image
+{
+    position: absolute;
+    top: 12%;
+    left: 65%;
+} */
+.registration_input
+{
+    display: block;
+    /* width: 500px; */
+    border:none;
+    background-color:rgb(181, 222, 255);
+    border-radius:20px;
+    padding: 10px;
+    transition:0.4s ease-out;
+}
+.registration_button
+{
+    border:none;
+    background-color:rgb(255, 209, 124);
+    padding: 10px;
+    width: 100px;
+    border-radius:20px;
+    transition:0.4s ease-out;
+}
+.registration_input:hover
+{
+    transform: scale(1.05);
+    transition: 0.4s ease-in;
+    box-shadow: 1px 5px 20px rgb(181, 222, 255) ;
+    border:none;
+}
+.registration_button:hover
+{
+    transform: scale(1.05);
+    transition: 0.4s ease-in;
+    box-shadow: 1px 5px 20px rgb(255, 209, 124) ;
+}
+.radio_register
+{
+    margin-left: 10px;
+}
+.total_text
+{
+    color: rgb(158, 159, 163);
+}
+.lamp_terms
+{
+    text-decoration: none;
+    color:orange
+}

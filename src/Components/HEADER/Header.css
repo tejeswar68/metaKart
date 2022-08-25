@@ -1,0 +1,23 @@
+.active{
+    color: black;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 5px 8px;
+    border-radius: 3px;
+}
+
+
+.navbar_design
+{
+    background-color: rgb(0, 0, 0);
+    
+   
+}
+
+.navbar_search_input
+{
+          background-color: white;
+          border: none;
+          border-radius: 20px;
+       
+}

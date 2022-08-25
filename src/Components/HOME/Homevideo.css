@@ -1,0 +1,26 @@
+.support_search
+{
+   position: absolute;
+   left: 50%;
+   top: 40%;
+   transform: translate(-50%,-50%);
+   background-color: rgba(0, 0, 0, 0.75);
+   
+}
+.metakarth
+{
+   background-color: 	#00000087;
+   padding: 10px ;
+   border-radius: 30px;
+   color: #d8c3a5;
+}
+.support_video
+{
+   position: relative;
+    object-fit: cover;
+    width: 100%;
+    height: 37rem;
+   
+
+
+}
